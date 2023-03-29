@@ -20,11 +20,17 @@ Hello guys
 
 https://timekeeper-test-6690b.web.app/#/main_screen/:filial/:tableId
 
+![Image alt](https://github.com/bedievis-y/portfolio/blob/main/photo_2023-03-29_17-00-37.jpg)
 
 - Trade-in
 Очень интересная идея проекта, для примерного понимания я предоставил видео как оно работает
 
 http://app.foxway.tech/foxway_animation_test_video.mp4
+
+![Image alt](https://github.com/bedievis-y/portfolio/blob/main/photo_2023-03-29_16-58-57.jpg)
+![Image alt](https://github.com/bedievis-y/portfolio/blob/main/photo_2023-03-29_16-58-57%20(2).jpg)
+![Image alt](https://github.com/bedievis-y/portfolio/blob/main/photo_2023-03-29_16-58-56.jpg)
+![Image alt](https://github.com/bedievis-y/portfolio/blob/main/photo_2023-03-29_16-58-56%20(2).jpg)
 
 
 
